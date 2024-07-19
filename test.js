@@ -1,4 +1,1 @@
-export const Test = ()=>{
-    console.log("Hello Everyone!!")
-    return(<div>Hello Everyone!!</div>)
-}
+console.log("Hello Everyone!!")
